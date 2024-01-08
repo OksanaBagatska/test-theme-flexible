@@ -1,0 +1,5 @@
+@import "./utils/mixin";
+
+// --- Font faces ---
+@include font-face("Ubuntu", "../../fonts/Ubuntu-Regular", 400);
+@include font-face("Ubuntu", "../../fonts/Ubuntu-Bold", 700);
